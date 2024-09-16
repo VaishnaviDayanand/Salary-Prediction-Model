@@ -5,7 +5,7 @@ A simple machine learning model that predicts salaries based on the number of ye
 This project showcases a machine learning model that predicts employee salaries based on their years of experience. The dataset used in this project is included in the repository, and the model is developed using Python and popular machine learning libraries on Google Colab.
 
 # Dataset
-- Source: The dataset is included in this repository under the `/data` folder.
+- Source: The dataset is included in this repository as Salary_Data.csv
 - Features:
   - Years of Experience (Independent variable)
 - Target:
@@ -22,5 +22,5 @@ To run this project:
    ```
    pip install -r requirements.txt
    ```
-4. The dataset is included in the `/data` folder. Make sure the path to the dataset in the notebook is correct.
+4. The dataset is included in this repository as Salary_Data.csv. Make sure the path to the dataset in the notebook is correct.
 5. Run the `salary_prediction_experience.ipynb` notebook step by step.
